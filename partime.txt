@@ -1,0 +1,15 @@
+Employee ID: 455
+Employee name: Augusto Guzman
+Hours worked per month: 30
+Monthly Salary: $4200
+
+Employee ID: 678
+Employee name: Martin Depirro
+Hours worked per month: 15
+Monthly Salary: $1800
+
+Employee ID: 945
+Employee name: Marque Aldaco
+Hours worked per month: 35
+Monthly Salary: $2800
+

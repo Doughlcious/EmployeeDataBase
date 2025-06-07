@@ -1,0 +1,20 @@
+Employee ID: 123
+Employee name: Paita Allen
+Full time
+Monthly Salary: $8000
+
+Employee ID: 456
+Employee name: Steven Zapata
+Full time
+Monthly Salary: $5600
+
+Employee ID: 789
+Employee name: Enrique Rios
+Full time
+Monthly Salary: $6400
+
+Employee ID: 23
+Employee name: fds asdf
+Full time
+Monthly Salary: $3680
+

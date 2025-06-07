@@ -1,0 +1,15 @@
+Employee ID: 243
+Employee name: Anne Johnson
+Fulltime Professor
+Monthly Salary: $7000
+
+Employee ID: 791
+Employee name: William Bouris
+Associate Professor
+Monthly Salary: $6000
+
+Employee ID: 623
+Employee name: Christopher Andrade
+Assistant Professor
+Monthly Salary: $5000
+
